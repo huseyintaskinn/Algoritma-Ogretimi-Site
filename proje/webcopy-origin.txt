@@ -1,0 +1,208 @@
+Uri: https://code.tospaa.org/
+File Name: C:\Downloaded Web Sites\code.tospaa.org\index.htm
+Content Type: text/html
+
+Uri: https://code.tospaa.org/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\code.tospaa.org\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://code.tospaa.org/css/stil.css
+File Name: C:\Downloaded Web Sites\code.tospaa.org\css\stil.css
+Content Type: text/css
+
+Uri: https://code.tospaa.org/index.php
+File Name: C:\Downloaded Web Sites\code.tospaa.org\index.php.html
+Content Type: text/html
+
+Uri: https://code.tospaa.org/2.php
+File Name: C:\Downloaded Web Sites\code.tospaa.org\2.php.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-69495165-4
+File Name: C:\Downloaded Web Sites\code.tospaa.org\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://code.tospaa.org/js/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\code.tospaa.org\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://code.tospaa.org/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\code.tospaa.org\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://code.tospaa.org/js/howler.core.js
+File Name: C:\Downloaded Web Sites\code.tospaa.org\js\howler.core.js
+Content Type: application/javascript
+
+Uri: https://code.tospaa.org/js/tospaa7.js
+File Name: C:\Downloaded Web Sites\code.tospaa.org\js\tospaa7.js
+Content Type: application/javascript
+
+Uri: https://code.tospaa.org/resimler/tospaa.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\tospaa.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/ileri.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\ileri.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/sol.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\sol.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/sag.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\sag.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/tas.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\tas.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/star.gif
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\star.gif
+Content Type: image/gif
+
+Uri: https://code.tospaa.org/resimler/task.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\task.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/tospaalogotype2.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\tospaalogotype2.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/task2.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\task2.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/wave.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\wave.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/agac2.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\agac2.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/tospaared.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\tospaared.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/tospaablue.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\tospaablue.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/tospaagreen.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\tospaagreen.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/tospaanew.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\tospaanew.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/cancel.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\cancel.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/hedef1.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\hedef1.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/hedef2.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\hedef2.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/hedef3.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\hedef3.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/hedef4.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\hedef4.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/hedef5.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\hedef5.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/hedef6.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\hedef6.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/hedef7.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\hedef7.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/hedef8.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\hedef8.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/dongu.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\dongu.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/donguson.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\donguson.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/dongux2.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\dongux2.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/dongux3.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\dongux3.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/dongux4.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\dongux4.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/dongux5.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\dongux5.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/eger.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\eger.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/egeryoksa.png
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\egeryoksa.png
+Content Type: image/png
+
+Uri: https://code.tospaa.org/resimler/top.jpg
+File Name: C:\Downloaded Web Sites\code.tospaa.org\resimler\top.jpg
+Content Type: image/jpeg
+
+Uri: https://code.tospaa.org/3.php
+File Name: C:\Downloaded Web Sites\code.tospaa.org\3.php.html
+Content Type: text/html
+
+Uri: https://code.tospaa.org/4.php
+File Name: C:\Downloaded Web Sites\code.tospaa.org\4.php.html
+Content Type: text/html
+
+Uri: https://code.tospaa.org/5.php
+File Name: C:\Downloaded Web Sites\code.tospaa.org\5.php.html
+Content Type: text/html
+
+Uri: https://code.tospaa.org/6.php
+File Name: C:\Downloaded Web Sites\code.tospaa.org\6.php.html
+Content Type: text/html
+
+Uri: https://code.tospaa.org/js/kar.js
+File Name: C:\Downloaded Web Sites\code.tospaa.org\js\kar.js
+Content Type: application/javascript
+
+Uri: https://code.tospaa.org/7.php
+File Name: C:\Downloaded Web Sites\code.tospaa.org\7.php.html
+Content Type: text/html
+
+Uri: https://code.tospaa.org/8.php
+File Name: C:\Downloaded Web Sites\code.tospaa.org\8.php.html
+Content Type: text/html
+
+Uri: https://code.tospaa.org/9.php
+File Name: C:\Downloaded Web Sites\code.tospaa.org\9.php.html
+Content Type: text/html
+
+Uri: https://code.tospaa.org/10.php
+File Name: C:\Downloaded Web Sites\code.tospaa.org\10.php.html
+Content Type: text/html
+

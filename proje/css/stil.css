@@ -1,0 +1,326 @@
+@charset "utf-8";
+/*# sourceMappingURL=bootstrap.min.css.map */
+
+.btn-primary.active,.btn-primary:active, .btn-primary:hover{
+background-color: #d6e9c6 !important;
+	border-color: #0b2e13 !important;
+}
+.metinkodu{
+	font-size: 14pt;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #204d74;
+	font-style: oblique;
+}
+
+
+.temizle{
+	clear:both;
+}
+
+.solfloat{
+	float: left;
+}
+
+.padding5sag{
+	padding-right:5px !important;
+}
+.padding0sol{
+	padding-left:0px !important;
+}
+
+.marginsolyok{
+	margin-left: 0px;
+}
+
+textarea{
+/*	line-height:30pt;*/
+}
+
+
+
+.kutu {
+	border-color: white;
+	border-width: thin;
+	border-style:solid;
+	height:50px;
+	width:50px !important;
+	/*background-color: #BED63A; */	
+}
+.mow .kutu {
+	border: 0px !important;
+	height:30px !important;
+	background-image: url("../resimler/wave.png");
+	background-repeat: repeat-x;
+	background-color: #C28D58;
+}
+
+.kutu2 {
+	border-color: white;
+	border-width: thin;
+	border-style:solid;
+	height:50px;
+	width:50px !important;
+	background-color:#CCCAAA;	
+}
+
+.buton {
+	border-color:#afd9ee;
+	border-width: thin;
+	border-style:solid;
+	height: 50px;
+	width:50px;
+	background-color: #BED63A;
+}
+
+
+.buton2 {
+	border-color:#afd9ee;
+	border-width: thin;
+	border-style:solid;
+	height: 50px;
+	width:50px;
+	background-color: #BED63A;
+}
+.buton3 {
+	border-color:#afd9ee;
+	border-width: thin;
+	border-style:solid;
+	height: 90px;
+	width:180px;
+	background-color: #BED63A;
+}
+
+.animasyonla{
+	-moz-transition:0.5s all;
+	-webkit-transition:0.5s all;
+}
+.don90{
+	transform: rotate(90deg);
+	-moz-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-ms-transform: rotate(90deg);
+}
+.don180{
+	transform: rotate(180deg);
+	-moz-transform:rotate(180deg);
+	-webkit-transform:rotate(180deg);
+	-ms-transform: rotate(180deg);
+}
+.don270{
+	transform: rotate(270deg);
+	-moz-transform:rotate(270deg);
+	-webkit-transform:rotate(270deg);
+	-ms-transform: rotate(270deg);
+}
+
+.taslikutu{
+	background-image:url(../resimler/tas.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+.agac{
+	height:50px;
+	background-image:url(../resimler/agac2.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+.tospaared{
+	height:50px;
+	background-image:url(../resimler/tospaared.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.tospaablue{
+	height:50px;
+	background-image:url(../resimler/tospaablue.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.tospaagreen{
+	height:50px;
+	background-image:url(../resimler/tospaagreen.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.tospaa{
+	height:50px;
+	background-image:url(../resimler/tospaanew.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.tospaa.tospaayeni{
+	height:50px;
+	background-image:url(../resimler/tospaanew.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.hedef{
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.butonremove{
+	height:50px;
+	width:50px;
+	vertical-align:middle;
+	line-height:50px;
+	background-image:url(../resimler/cancel.png);
+}
+
+.hedef.hedef1{
+	background-image:url(../resimler/hedef1.png);
+}
+.hedef.hedef2{
+	background-image:url(../resimler/hedef2.png);
+}
+.hedef.hedef3{
+	background-image:url(../resimler/hedef3.png);
+}
+.hedef.hedef4{
+	background-image:url(../resimler/hedef4.png);
+}
+.hedef.hedef5{
+	background-image:url(../resimler/hedef5.png);
+}
+.hedef.hedef6{
+	background-image:url(../resimler/hedef6.png);
+}
+.hedef.hedef7{
+	background-image:url(../resimler/hedef7.png);
+}
+.hedef.hedef8{
+	background-image:url(../resimler/hedef8.png);
+}
+
+
+
+.kutuminik {
+	border-color: white;
+	border-width: thin;
+	border-style:solid;
+	height:20px;
+	width:18px !important;
+	background-color: #BED63A;
+}
+.kutuminik.taslikutu{
+	background-image:url(../resimler/task.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.kutuminik.hedef{
+	background-image:url(../resimler/hedef1k.png);
+}
+.kutuminik.hedef2{
+	background-image:url(../resimler/hedef2k.png);
+}
+.kutuminik.hedef3{
+	background-image:url(../resimler/hedef3k.png);
+}
+.kutuminik.hedef4{
+	background-image:url(../resimler/hedef4k.png);
+}
+.kutuminik.hedef5{
+	background-image:url(../resimler/hedef5k.png);
+}
+.kutuminik.hedef6{
+	background-image:url(../resimler/hedef6k.png);
+}
+.kutuminik.hedef7{
+	background-image:url(../resimler/hedef7k.png);
+}
+.kutuminik.hedef8{
+	background-image:url(../resimler/hedef8k.png);
+}
+.kutuminik.tospaared{
+	background-image:url(../resimler/tospaaredk.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.kutuminik.tospaagreen{
+	background-image:url(../resimler/tospaagreenk.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.kutuminik.tospaablue{
+	background-image:url(../resimler/tospaabluek.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+.cerceve{
+border:solid thin #930;
+}
+
+.cerceve2{
+border:solid thin #930;
+}
+
+.ileri{
+	background-image:url(../resimler/ileri.png);
+}
+.sol{
+	background-image:url(../resimler/sol.png);
+}
+
+.sag{
+	background-image:url(../resimler/sag.png);
+}
+.dongu{
+	background-image:url(../resimler/dongu.png);
+}
+.donguson{
+	background-image:url(../resimler/donguson.png);
+}
+.dongu2{
+	background-image:url(../resimler/dongux2.png);
+}
+.dongu3{
+	background-image:url(../resimler/dongux3.png);
+}
+.dongu4{
+	background-image:url(../resimler/dongux4.png);
+}
+.dongu5{
+	background-image:url(../resimler/dongux5.png);
+}
+.eger{
+	background-image:url(../resimler/eger.png);
+}
+.egertasvarsa{
+	background-image:url(../resimler/eger.png);
+} 
+.egertasyoksa{
+	background-image:url(../resimler/egeryoksa.png);
+} 
+.row .col-xs-12.col-sm-12.col-md-12.header {
+	background-color: black;
+	height: 90px;
+}
+.row.board .col-xs-12.col-sm-12.col-md-12.header .col-md-5.sol-header {
+	float: left;
+}
+.row.board {
+	margin-top: 10px;
+}
+body {
+	background-color: #C28D58;
+	margin: 0px;
+	padding: 0px;
+}
+
+.row .col-xs-12.col-sm-12.col-md-12.header .col-md-7.sag-header {
+	float: right;
+	background-color: #0F6;
+	margin-top: 20px;
+}
+
+#playground{
+	/* background-image:url(../resimler/back1.png);*/
+	background-color: #BED63A;
+	background-repeat:no-repeat;
+	background-position:0px 300px;
+	width:500px;
+	padding-left:0px !important;
+	margin-left:5px;
+	}
